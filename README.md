@@ -15,6 +15,7 @@ Anotações sobre Git e GitHub do curso de versionamento de código [Java com Sp
 - O que é versionamento de código: O  versionamento é uma maneira organizada de administrar mudanças, criando versões. Seja em um documento de texto ou software, a cada incremento, teremos uma nova versão daquilo que estamos criando, pois estamos inserindo algo que não estava lá anteriormente. Nesse sentido, o versionamento atua criando um histórico das mudanças realizadas, que pode ser acessado e utilizado para recuperar alguma versão específica.
 
 - O que uma Branch: Branch é uma ramificação no git é um ponteiro para as alterações feitas nos arquivos do projeto. É útil em situações nas quais você deseja adicionar um novo recurso ou corrigir um erro, gerando uma nova ramificação garantindo que o código instável não seja mesclado nos arquivos do projeto principal. Depois de concluir a atualização dos códigos da ramificação, você pode mesclar a ramificação com a principal, geralmente chamada de Main.
+- O git não reconhece pastas com seu diretório vazio, para que seja reconhecido devemos adicionar algum arquivo dentro da pasta vazia.
 
 
 
